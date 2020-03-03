@@ -1,0 +1,8 @@
+{
+  "name": "ssl-for-free-renew",
+  "version": "0.0.1",
+  "dependencies": {
+    "moment": "2.24.0",
+    "puppeteer": "2.1.1"
+  }
+}
